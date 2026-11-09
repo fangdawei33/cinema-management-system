@@ -2,3 +2,18 @@
 ~$*
 .DS_Store
 Thumbs.db
+build/
+target/
+lib/
+.tools/
+config/application.properties
+*.bak
+*.log
+.idea/
+*.iml
+
+# Local course submission materials (may contain student details and chat screenshots).
+/数据库课设要求/
+/电影院排片与售票管理系统/
+/电影院排片与售票管理系统.zip
+/选题与任务书聊天记录.txt
